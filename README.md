@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-Soy desarrolladora Full Stack, mi pasión es crear soluciones tecnológicas que trasciendan y generen un impacto positivo en la vida de los usuarios. Mi enfoque se centra en brindar experiencias digitales excepcionales a través de productos innovadores y funcionales.
+Soy desarrolladora frontend, mi pasión es crear soluciones tecnológicas que trasciendan y generen un impacto positivo en la vida de los usuarios. Mi enfoque se centra en brindar experiencias digitales excepcionales a través de productos innovadores y funcionales.
 Me emociona enfrentar desafíos y abordar problemas complejos de manera creativa, considero que cada obstáculo es una oportunidad para aprender y mejorar.
 </p>
 
