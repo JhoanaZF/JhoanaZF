@@ -1,10 +1,10 @@
 <h1 align="center">👩‍💼 Hola, soy Jhoana Zamora 👩‍💻</h1>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/JhoanaZF">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=302c9b&center=true&width=600&lines=Desarrolladora+Full Stack+|+Administradora" alt="Jhoana Zamora" />
     </a>
-</p>
+</p> -->
 
 <p align="center">
 Soy desarrolladora frontend, mi pasión es crear soluciones tecnológicas que trasciendan y generen un impacto positivo en la vida de los usuarios. Mi enfoque se centra en brindar experiencias digitales excepcionales a través de productos innovadores y funcionales.
