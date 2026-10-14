@@ -7,14 +7,14 @@
 </p> -->
 
 <p align="center">
-Soy desarrolladora frontend, mi pasión es crear soluciones tecnológicas que trasciendan y generen un impacto positivo en la vida de los usuarios. Mi enfoque se centra en brindar experiencias digitales excepcionales a través de productos innovadores y funcionales.
+Soy desarrolladora full stack, mi pasión es crear soluciones tecnológicas que trasciendan y generen un impacto positivo en la vida de los usuarios. Mi enfoque se centra en brindar experiencias digitales excepcionales a través de productos innovadores y funcionales.
 Me emociona enfrentar desafíos y abordar problemas complejos de manera creativa, considero que cada obstáculo es una oportunidad para aprender y mejorar.
 </p>
 
 <h3 align="left">Contáctame:</h3>
 
 -   [Mi Email](mailto:jhoanazamora2@gmail.com)
--   [Mi LinkedIn](https://www.linkedin.com/in/jhoana-zamora/)
+<!---   [Mi LinkedIn](https://www.linkedin.com/in/jhoana-zamora/) -->
 
 <h3 align="left">Tecnologías:</h3>
 <p align="left">
